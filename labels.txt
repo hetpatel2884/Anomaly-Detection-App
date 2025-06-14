@@ -1,0 +1,7 @@
+0 Algae
+1 major crack
+2 minor crack
+3 normal
+4 peeling
+5 spalling
+6 stain
